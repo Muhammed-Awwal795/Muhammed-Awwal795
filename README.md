@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Muhammedawwal a frontend developer
+I design and build websites that i think of
+I use HTML, CSS ,Javascript and Angular to shape and design website
 
 <!--
 **Muhammed-Awwal795/Muhammed-Awwal795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
